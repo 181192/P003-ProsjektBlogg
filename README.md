@@ -1,4 +1,5 @@
-Simple Blog part 1: The Build
-=============
+##P03-ProsjektBlogg
 
-These files acompany the tutorial: [Creating a blog from scratch with PHP](http://daveismyname.com/creating-a-blog-from-scratch-with-php-bp)
+Dette er et prosjekt for å lære og lage en dynamisk blogg side for å dele mine egne prosjekter
+
+Link til blogg: http://kalliainen.no eller for (SSN) https://kalliainen.no
